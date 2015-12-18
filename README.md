@@ -4,12 +4,15 @@ This program was made as an assignment for Satellite communication, under the au
 the department of communcation and electronics engineering, Faculty of engineering, Tanta University.
 
 This was developed by:
+
 Eng\ Ahmed Shaheen
+
 Eng\ Mohamed El-Demerdash
 
 (Our first program ^_^)
 
 Abstract:
+
 We have developed an easy gui software that help the user to compute Antenna alignment parameters and determine the angles for any satellite.
 Program features:
 1.	Ask the user to input the following data: satellite name, type, position, user geographic coordinates, satellite orbital parameters, operating frequency and antenna dish size
