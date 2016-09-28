@@ -1,15 +1,15 @@
 # Satellite-Antenna-Alignment
 
-This program was made as an assignment for Satellite communication, under the aupervision of dr. Mahmoud Selim
-the department of communcation and electronics engineering, Faculty of engineering, Tanta University.
+This program was made as an assignment for Satellite communication Course , under the supervision of dr. Mahmoud Selim
+the department of Communication and Electronics engineering, Faculty of Engineering, Tanta University.
 
-This was developed by:
+Developed by:
 
 Eng\ Ahmed Shaheen
 
 Eng\ Mohamed El-Demerdash
 
-(Our first program ^_^)
+(Our first GUI program ^_^)
 
 Abstract:
 
